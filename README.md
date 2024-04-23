@@ -18,9 +18,13 @@ YOUTUBE DATA SCRAPPING AND ITS ETHICAL PERSPECTIVE: When engaging in the scrapin
 REQUIRED LIBRARIES:
 
 1.googleapiclient.discovery
+
 2.pymongo
+
 3.psycopg2
+
 4.pandas
+
 5.streamlit
 
 FEATURES: The following functions are available in the YouTube Data Harvesting and Warehousing application: Retrieval of channel and video data from YouTube using the YouTube API.
